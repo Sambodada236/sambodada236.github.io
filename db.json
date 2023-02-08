@@ -1,0 +1,25 @@
+{
+    "EmployeeDetails":[
+       {
+         "EmployeeID": "1",
+         "EmployeeName":"Sai",
+         "EmployeePhNumber": "9030450367",
+         "EmployeeEmail": "sai@majorel.com",
+         "EmployeeAge": "30"
+       },
+       {
+         "EmployeeID": "2",
+         "EmployeeName":"Satya",
+         "EmployeePhNumber": "8712338919",
+         "EmployeeEmail": "satya@majorel.com",
+         "EmployeeAge": "20"
+       },
+       {
+        "EmployeeID": "3",
+        "EmployeeName":"Raju",
+        "EmployeePhNumber": "8331827467",
+        "EmployeeEmail": "Raju@majorel.com",
+        "EmployeeAge": "27"
+      }
+     ]
+  }
